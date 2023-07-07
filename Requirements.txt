@@ -1,0 +1,6 @@
+git+https://github.com/huggingface/diffusers
+git+https://github.com/huggingface/accelerate
+controlnet-aux
+opencv-contrib-python
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+-e .
